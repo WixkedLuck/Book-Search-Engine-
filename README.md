@@ -37,4 +37,4 @@ The purpose of this project was to work with Apollo and GraphQL to refactor a RE
 # Site
 
 #
-![PortfolioV2](client/src/images/Book search.PNG)
+![PortfolioV2](client/src/images/Book.PNG)
